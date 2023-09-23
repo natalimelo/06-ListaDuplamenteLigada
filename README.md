@@ -1,3 +1,5 @@
+Natalí Melo - natali.melo@fatec.sp.gov.br
+
 # Lista Duplamente Ligada 
 ---
 
